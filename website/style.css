@@ -7,28 +7,28 @@
 /* ── SF Pro Rounded font faces ── */
 @font-face {
   font-family: 'SF Pro Rounded';
-  src: url('Fonts/SF-Pro-Rounded-Regular.otf') format('opentype');
+  src: url(''Fonts/Nunito-Regular.ttf'') format('opentype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src: url('Fonts/SF-Pro-Rounded-Medium.otf') format('opentype');
+  src: url('Fonts/Nunito-Medium.ttf') format('opentype');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src: url('Fonts/SF-Pro-Rounded-Semibold.otf') format('opentype');
+  src: url('Fonts/Nunito-SemiBold.ttf') format('opentype');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src: url('Fonts/SF-Pro-Rounded-Bold.otf') format('opentype');
+  src: url('Fonts/Nunito-Bold.ttf') format('opentype');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -42,7 +42,7 @@
 }
 @font-face {
   font-family: 'SF Pro Rounded';
-  src: url('Fonts/SF-Pro-Rounded-Black.otf') format('opentype');
+  src: url('Fonts/Nunito-ExtraBold.ttf') format('opentype');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
